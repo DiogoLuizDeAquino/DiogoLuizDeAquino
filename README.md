@@ -1,5 +1,20 @@
-Hello World 👋<br><br>- 🔭 I’m currently working on automation projects that involve Python, JavaScript, Oracle Databases, and low-code tools like AutomationEdge, UiPath, and Power Automate.<br>- 🌱 I’m currently learning Python with focus in automation process.<br>- 📫 How to reach me: Send a e-mail for diogoluiz2110@gmail.com<br>- 😄 Pronouns: He/Him
+<table>
+  <tr>
+    <td>
 
+<h1>Hello World 👋</h1>
+
+- 🔭 I’m currently working on automation projects that involve **Python, JavaScript, Oracle Databases**, and low-code tools like **AutomationEdge**, **UiPath**, and **Power Automate**.<br>
+- 🌱 I’m currently learning Python with focus in automation process.<br>
+- 📫 How to reach me: Send an e-mail to **diogoluiz2110@gmail.com**<br>
+- 😄 Pronouns: He/Him
+
+    </td>
+    <td>
+      <img src="banner.png" alt="GitHub Banner" width="500px" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diogo-luiz-de-aquino-0194a11b4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diogoluiz_aq/?igshid=OTJhZDVkZWE%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diogoluiz2110@gmail.com) 

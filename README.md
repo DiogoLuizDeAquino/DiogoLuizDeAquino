@@ -23,7 +23,6 @@
 ![Automation Edge](https://img.shields.io/badge/Automation_Edge-1C1C1C?style=for-the-badge&logo=automation&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-fd6c08?style=for-the-badge&logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)

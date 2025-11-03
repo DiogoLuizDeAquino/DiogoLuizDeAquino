@@ -8,7 +8,7 @@
       😄 Pronouns: He/Him
     </td>
     <td style="border: none; padding: 10px;">
-      <img src="banner.png" alt="GitHub Banner" width="800px" style="border-radius: 10px;" />
+      <img src="newbanner.png" alt="GitHub Banner" width="800px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>

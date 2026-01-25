@@ -3,7 +3,6 @@
     <td style="border: none; vertical-align: top; padding: 10px;">
       <h1>Hello World 👋</h1>
       🔭 I’m currently working on automation projects that involve <strong>Python, JavaScript, Oracle Databases</strong>, and low-code tools like <strong>AutomationEdge</strong>, <strong>UiPath</strong>, and <strong>Power Automate</strong>.</br>
-      🌱 I’m currently learning Python  and other tools with focus in automation process.</br>
       📫 How to reach me: Send an e-mail to <strong>diogoluiz2110@gmail.com</strong></br>
       😄 Pronouns: He/Him
     </td>

@@ -2,12 +2,12 @@
   <tr>
     <td style="border: none; vertical-align: top; padding: 10px;">
       <h1>Hello World 👋</h1>
-      🔭 I’m currently working on automation projects that involve <strong>Python, JavaScript, Oracle Databases</strong>, and low-code tools like <strong>AutomationEdge</strong>, <strong>UiPath</strong>, and <strong>Power Automate</strong>.</br>
+      🔭 I’m currently working on automation projects that involve <strong>C#, JavaScript, Oracle Databases</strong>, and low-code tools like <strong>AutomationEdge</strong>, <strong>Roboteasy</strong>, and <strong>Power Automate</strong>.</br>
       📫 How to reach me: Send an e-mail to <strong>diogoluiz2110@gmail.com</strong></br>
       😄 Pronouns: He/Him
     </td>
     <td style="border: none; padding: 10px;">
-      <img src="newbanner.png" alt="GitHub Banner" width="800px" style="border-radius: 10px;" />
+      <img width="1387" height="1942" alt="gitimage" src="https://github.com/user-attachments/assets/a5627610-984f-4dcf-80d7-d16208e6900b" />
     </td>
   </tr>
 </table>
@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-luiz-de-aquino-0194a11b4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/diogoluiz_aq/?igshid=OTJhZDVkZWE%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diogoluiz2110@gmail.com) 
 
 # 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Automation Edge](https://img.shields.io/badge/Automation_Edge-1C1C1C?style=for-the-badge&logo=automation&logoColor=white)

@@ -58,17 +58,7 @@ I develop enterprise automation using **C#**, **.NET**, **Python**, **JavaScript
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=DiogoLuizDeAquino&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=DiogoLuizDeAquino&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLuizDeAquino&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 💭 Philosophy
+## Think About!
 
 > **"Great automation isn't about replacing people—it's about empowering them to focus on what truly creates value."**
 
